@@ -2,7 +2,7 @@
 
 # Hi there, I'm William 👋
 
-### Software Developer | Arch Linux Enthusiast | Ergonomics Advocate
+### Software Developer | Music Lover | Casual Gamer
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;I+use+Arch+BTW;Optimizing+workspace+ergonomics;Building+efficient+solutions)](https://git.io/typing-svg)
 
@@ -88,7 +88,7 @@ I'm a developer based in the Philippines. I believe in writing clean, efficient,
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WilliamCorotan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WilliamCorotan&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=WilliamCorotan&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamCorotan&layout=normal&theme=tokyonight&hide_border=true&langs_count=8)
 
@@ -115,21 +115,32 @@ I'm a developer based in the Philippines. I believe in writing clean, efficient,
 ## 💼 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/WilliamCorotan/POS-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamCorotan&repo=POS-System&theme=tokyonight&hide_border=true" alt="POS-System" style="max-width: 400px; width: 100%;" />
-  </a>
-  <a href="https://github.com/WilliamCorotan/astro-igniter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamCorotan&repo=astro-igniter&theme=tokyonight&hide_border=true" alt="astro-igniter" style="max-width: 400px; width: 100%;" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/WilliamCorotan/My-Time">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamCorotan&repo=My-Time&theme=tokyonight&hide_border=true" alt="My-Time" style="max-width: 400px; width: 100%;" />
-  </a>
-  <a href="https://github.com/WilliamCorotan/Artiez">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamCorotan&repo=Artiez&theme=tokyonight&hide_border=true" alt="Artiez" style="max-width: 400px; width: 100%;" />
-  </a>
+  <table>
+    <tr>
+      <td width="50%">
+        <a href="https://github.com/WilliamCorotan/POS-System">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamCorotan&repo=POS-System&theme=tokyonight&hide_border=true" alt="POS-System" />
+        </a>
+      </td>
+      <td width="50%">
+        <a href="https://github.com/WilliamCorotan/astro-igniter">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamCorotan&repo=astro-igniter&theme=tokyonight&hide_border=true" alt="astro-igniter" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <a href="https://github.com/WilliamCorotan/My-Time">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamCorotan&repo=My-Time&theme=tokyonight&hide_border=true" alt="My-Time" />
+        </a>
+      </td>
+      <td width="50%">
+        <a href="https://github.com/WilliamCorotan/Artiez">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamCorotan&repo=Artiez&theme=tokyonight&hide_border=true" alt="Artiez" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -177,8 +188,6 @@ I'm a developer based in the Philippines. I believe in writing clean, efficient,
 ---
 
 <div align="center">
-
-### ⭐ From [william](https://github.com/william)
 
 **"Code is like humor. When you have to explain it, it's bad."**
 

@@ -88,7 +88,7 @@ I'm a developer based in the Philippines. I believe in writing clean, efficient,
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WilliamCorotan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=WilliamCorotan)
+![GitHub Streak](https://streak-stats.demolab.com?user=WilliamCorotan&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamCorotan&layout=normal&theme=tokyonight&hide_border=true&langs_count=8)
 

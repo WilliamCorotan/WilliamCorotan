@@ -100,7 +100,7 @@ I'm a developer based in the Philippines. I believe in writing clean, efficient,
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=william&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
+![trophy](https://github-profile-trophy.vercel.app/?username=WilliamCorotan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
 
 </div>
 

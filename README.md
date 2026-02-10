@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm William 👋
+# Hi there, I'm JJ 👋
 
 ### Software Developer | Music Lover | Casual Gamer
 
@@ -86,11 +86,11 @@ I'm a developer based in the Philippines. I believe in writing clean, efficient,
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WilliamCorotan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=null-jj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=WilliamCorotan&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=null-jj&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamCorotan&layout=normal&theme=tokyonight&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=null-jj&layout=normal&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
 
@@ -100,7 +100,7 @@ I'm a developer based in the Philippines. I believe in writing clean, efficient,
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=WilliamCorotan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
+![trophy](https://github-profile-trophy.vercel.app/?username=null-jj&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
 
 </div>
 
@@ -108,7 +108,7 @@ I'm a developer based in the Philippines. I believe in writing clean, efficient,
 
 ## 📈 Activity Graph
 
-[![William's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=william&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![JJ's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=null-jj&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -118,25 +118,25 @@ I'm a developer based in the Philippines. I believe in writing clean, efficient,
   <table>
     <tr>
       <td width="50%">
-        <a href="https://github.com/WilliamCorotan/POS-System">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamCorotan&repo=POS-System&theme=tokyonight&hide_border=true" alt="POS-System" />
+        <a href="https://github.com/null-jj/POS-System">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=null-jj&repo=POS-System&theme=tokyonight&hide_border=true" alt="POS-System" />
         </a>
       </td>
       <td width="50%">
-        <a href="https://github.com/WilliamCorotan/astro-igniter">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamCorotan&repo=astro-igniter&theme=tokyonight&hide_border=true" alt="astro-igniter" />
+        <a href="https://github.com/null-jj/astro-igniter">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=null-jj&repo=astro-igniter&theme=tokyonight&hide_border=true" alt="astro-igniter" />
         </a>
       </td>
     </tr>
     <tr>
       <td width="50%">
-        <a href="https://github.com/WilliamCorotan/My-Time">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamCorotan&repo=My-Time&theme=tokyonight&hide_border=true" alt="My-Time" />
+        <a href="https://github.com/null-jj/My-Time">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=null-jj&repo=My-Time&theme=tokyonight&hide_border=true" alt="My-Time" />
         </a>
       </td>
       <td width="50%">
-        <a href="https://github.com/WilliamCorotan/Artiez">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamCorotan&repo=Artiez&theme=tokyonight&hide_border=true" alt="Artiez" />
+        <a href="https://github.com/null-jj/Artiez">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=null-jj&repo=Artiez&theme=tokyonight&hide_border=true" alt="Artiez" />
         </a>
       </td>
     </tr>
@@ -157,7 +157,7 @@ I'm a developer based in the Philippines. I believe in writing clean, efficient,
   <a href="https://portfolio-pink-theta-91.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:williamcorotan@gmail.com">
+  <a href="mailto:null-jj@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://discord.com/users/458229399259578380">
@@ -181,7 +181,7 @@ I'm a developer based in the Philippines. I believe in writing clean, efficient,
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=william&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=null-jj&color=blueviolet&style=for-the-badge)
 
 </div>
 
